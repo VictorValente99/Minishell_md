@@ -1,6 +1,6 @@
 This page serves as a central repository for all important project resources. Here you will find useful links, references, relevant files, explanatory videos, and any other material that may be needed throughout development. Keep everything organized in this space for easy and quick access when needed.
 
-[[Intra Projects minishell Edit 1.pdf]]
+[[Régua de avaliação do minishell.pdf]]
 
 [[pt_br.subject.pdf]]
 
